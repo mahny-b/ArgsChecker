@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgsChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "hoge \"moge 123\""
+    }
+  }
+}
